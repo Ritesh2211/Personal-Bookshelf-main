@@ -16,7 +16,7 @@ To get started with the Personal Bookshelf project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ritesh-katwe/Personal-Bookshelf.git
+git clone https://github.com/ritesh2211/Personal-Bookshelf.git
 ```
 
 2. Navigate to the project directory:
