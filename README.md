@@ -2,12 +2,6 @@
 
 Personal Bookshelf is a web application built using React and Tailwind CSS that allows users to search for books using the Open Library API, add them to their personal bookshelf, and remove them from the bookshelf.
 
-# Images
-
-<img width="901" alt="1" src="https://github.com/ritesh2211/Personal-Bookshelf/assets/110546856/c6d58857-b8f4-4995-af90-0ca11679f3f5">
-
-<img width="905" alt="2" src="https://github.com/ritesh2211/Personal-Bookshelf/assets/110546856/660663ae-891f-4509-b884-5687e839c718">
-
 ## Features
 
 - **Book Search:** Users can search for books by title, author, or ISBN using the Open Library API.
